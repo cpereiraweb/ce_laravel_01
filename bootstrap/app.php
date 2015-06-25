@@ -35,16 +35,17 @@ $app->singleton(
 	'Illuminate\Contracts\Console\Kernel',
 	'CodeCommerce\Console\Kernel'
 );
-/*
+
 $app->singleton(
 	'Illuminate\Contracts\Debug\ExceptionHandler',
 	'CodeCommerce\Exceptions\Handler'
 );
-*/
+
+/*
 $app->singleton(
     'Illuminate\Contracts\Debug\ExceptionHandler',
     'Gvb\Whoops\ExceptionHandler'
-);
+); */
 
 
 /*
