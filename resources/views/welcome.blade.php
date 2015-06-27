@@ -42,7 +42,6 @@
 				<div class="quote">{{ Inspiring::quote() }}</div>
 			</div>
 		</div>
-        {{{ Debugbar::info(app()) }}}
 	</body>
 </html>
 
